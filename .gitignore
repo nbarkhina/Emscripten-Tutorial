@@ -22,8 +22,6 @@ missing
 stamp-h1
 test-driver
 autom4te.cache/*
-**/Makefile
-Makefile.in
 
 xls2csv
 test_libxls
