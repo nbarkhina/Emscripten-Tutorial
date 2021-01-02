@@ -1,6 +1,8 @@
 # Emscripten Tutorial
 This repo contains the companion code used for my YouTube Tutorial on porting Libxls to Emscripten.
 
+https://youtu.be/WHwl8mqVRUg
+
 To build -
 
 `make`
