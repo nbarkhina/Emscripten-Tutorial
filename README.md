@@ -7,6 +7,6 @@ To build -
 
 `make`
 
-Or you can just try it from a web browse by going to Index.html. Original Libxls code was cloned from here - 
+Or you can just try it from a web browser by going to Index.html. Original Libxls code was cloned from here - 
 
 https://github.com/libxls/libxls
